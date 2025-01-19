@@ -1,7 +1,7 @@
-### Olá, eu sou o Gabriel Novais 👋🏻
-Sou Pleno Software Engineer na empresa [Bymycell](https://bymycell.com.br/) e CEO da [Efestos](https://www.efestos.com.br/) 
+### Hello, I'm Gabriel Novais 👋🏻
+I'm a Mid-Level Software Engineer at Bymycell and the CEO of Efestos.
 
-<p align="center"><em>"Sou um desenvolvedor apaixonado pela resolução de problemas, sempre buscando maneiras de agregar mais valor nas soluções desenvolvidas"</em></p>
+<p align="center"><em>"I am a developer passionate about solving problems, always looking for ways to add more value to the solutions I build."</em></p>
 
 <!--
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/professora.tabata/)
@@ -9,7 +9,7 @@ Sou Pleno Software Engineer na empresa [Bymycell](https://bymycell.com.br/) e CE
 
 ![gabrielnovaisgs's Stats](https://github-readme-stats.vercel.app/api?username=gabrielnovaisgs&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-<h2 align="center">Tecnologias que mais utilizo</h2>
+<h2 align="center">Technologies I Use the Most</h2>
 <div align="center" style="display: inline_block">
 
 
@@ -34,7 +34,7 @@ Sou Pleno Software Engineer na empresa [Bymycell](https://bymycell.com.br/) e CE
 
 
 <div align="center">
-  <h1 align="center">Entre em contato:</h1>
+  <h1 align="center">Contact Me 😉</h1>
 
   <a href="mailto:gabrielnovaisgs@gmail.com" align="center">✉️ gabrielnovaisgs@gmail.com</a>
   
